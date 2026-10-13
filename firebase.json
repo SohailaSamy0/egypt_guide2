@@ -1,0 +1,22 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "egypt-guide-849e3",
+          "appId": "1:388044740432:android:0f85e4ba0026d6721b3e55",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "egypt-guide-849e3",
+          "configurations": {
+            "android": "1:388044740432:android:0f85e4ba0026d6721b3e55",
+            "web": "1:388044740432:web:b4df206b4f143be61b3e55"
+          }
+        }
+      }
+    }
+  }
+}

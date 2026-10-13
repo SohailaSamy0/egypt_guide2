@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388044740432",
+    "project_id": "egypt-guide-849e3",
+    "storage_bucket": "egypt-guide-849e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388044740432:android:0f85e4ba0026d6721b3e55",
+        "android_client_info": {
+          "package_name": "com.example.egypt_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkWAg83d-sqePIOo4HDhojKyg6hYXOUYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
